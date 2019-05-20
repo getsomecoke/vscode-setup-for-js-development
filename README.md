@@ -1,2 +1,6 @@
 # vscode-setup-for-js-development
-This will show you how you can configure vscode for Javascript development
+
+I just wanted to setup my VSCode before I start learning Javascript. Knowing your tool is what makes you more efficeint.
+
+
+## Extensions
