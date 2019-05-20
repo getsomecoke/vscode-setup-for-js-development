@@ -4,3 +4,9 @@ I just wanted to setup my VSCode before I start learning Javascript. Knowing you
 
 
 ## Extensions
+
+Here are the list of extensions which I use.
+
+![Extensions](img/extensions-installed.png)
+
+> Note that I will make sure to update this as I go along.
